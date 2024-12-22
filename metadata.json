@@ -2,5 +2,5 @@
     "name": "first token",
     "symbol": "first",
     "description": "Example token from Solana Making a Token guide.",
-    "image": "https://github.com/aviraha/images/blob/main/first_token.png"
+    "image": "https://raw.githubusercontent.com/aviraha/images/refs/heads/main/first_token.png"
   }
